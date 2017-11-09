@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on plural.AI</title>
-    <link>http://plural.ai/tags/</link>
+    <link>https://pluralai.github.io/website/tags/</link>
     <description>Recent content in Tags on plural.AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://plural.ai/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pluralai.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

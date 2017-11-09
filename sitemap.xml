@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://plural.ai/categories/</loc>
+    <loc>https://pluralai.github.io/website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://plural.ai/tags/</loc>
+    <loc>https://pluralai.github.io/website/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://plural.ai/</loc>
+    <loc>https://pluralai.github.io/website/</loc>
     <priority>0</priority>
   </url>
   
