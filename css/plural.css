@@ -1,0 +1,68 @@
+html {
+    height: 100%;
+    max-height: 100%;
+    font-size: 62.5%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+    height: 100%;
+    max-height: 100%;
+    font-family: "Futura", serif;
+    letter-spacing: 0.01rem;
+    font-size: 1.8rem;
+    line-height: 1.75em;
+    background-color: #ffffff;
+    color: #3A4145;
+    -webkit-font-feature-settings: 'kern' 1;
+    -moz-font-feature-settings: 'kern' 1;
+    -o-font-feature-settings: 'kern' 1;
+    text-rendering: geometricPrecision;
+
+    background-image: url("../images/graph.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p, ul, ol, dl {
+    -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
+    -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
+    -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
+    margin: 0 0 1.75em 0;
+    text-rendering: geometricPrecision;
+}
+
+.tagline {
+    font-size: 3rem;
+    letter-spacing: 2px;
+    text-indent: -3px;
+    text-align: center;
+}
+
+.subheading {
+    font-size: 2rem;
+    letter-spacing: 1px;
+    text-indent: -3px;
+    text-align: center;
+}
+
+.site-footer {
+    position: relative;
+    margin: 8rem 0 0 0;
+    padding: 0.5rem 15px;
+    border-top: #EBF2F6 1px solid;
+    font-size: 1rem;
+    line-height: 1.75em;
+    text-align: center;
+    color: #BBC7CC;
+}
+
+.site-footer a {
+    color: #BBC7CC;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.site-footer a:hover {
+    color: #50585D;
+}
